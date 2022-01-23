@@ -1,4 +1,4 @@
-# MIMO-in-Vehicular-Communication
+# Spatial Multiplexing MIMO in Vehicular Communication
 This project demonstrates how Multiple Input Multiple Output (MIMO) can be employed in Vehicular Communication. The simulation flow of this project is expressed with the block diagram below.
 
 ![MIMO and Convolutional Coding in DSRC](https://user-images.githubusercontent.com/3108754/150693893-b620c25c-75a7-4e5d-957e-8d40b635bf11.JPG)
