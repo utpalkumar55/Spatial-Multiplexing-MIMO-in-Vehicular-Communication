@@ -17,4 +17,4 @@ Associated files-->
   * MMSE_Equalize.m -> Contains implementation for MMSE equalization
 
 N.B.: If you take help from this project, please cite the following paper:
- * U. K. Dey, R. Akl, and R. Chataut, “High Throughput Vehicular Communication Using Spatial Multiplexing MIMO,” in 2020 10th Annual Computing and Communication Workshop and Conference (CCWC), pp. 0110-0115, 2020.
+ * U. K. Dey, R. Akl, and R. Chataut, “High Throughput Vehicular Communication Using Spatial Multiplexing MIMO,” in *2020 10th Annual Computing and Communication Workshop and Conference (CCWC), pp. 0110-0115,* 2020.
